@@ -1,0 +1,825 @@
+[33mcommit f9e6ffe7eaaddc069d768f4f9534dafb5e33ddc1[m
+Merge: 4e83dbe 58e233c
+Author: omarahmed_10 <you@example.com>
+Date:   Sat Dec 17 23:54:47 2016 +0200
+
+    Merge remote-tracking branch 'origin/omaar'
+    
+    Conflicts:
+    	XMLDBMS/A1.log
+    	XMLDBMS/dbms/TableManager.java
+
+[33mcommit 4e83dbecef42cdcb79133405f4e503c8c5a9d3fe[m
+Merge: cd777ce 2211f1d
+Author: omarahmed_10 <you@example.com>
+Date:   Sat Dec 17 23:53:50 2016 +0200
+
+    Merge remote-tracking branch 'origin/omaaaar'
+    
+    Conflicts:
+    	XMLDBMS/jdbc/Statement.java
+
+[33mcommit 2211f1dc59a3f6a411a2de8ce91f80e0769d3408[m
+Author: omarahmed_10 <you@example.com>
+Date:   Sat Dec 17 23:48:01 2016 +0200
+
+    omar edit for test
+
+[33mcommit 58e233cdda861881bbf1fa48fae7f0efece35484[m
+Author: omarahmed_10 <you@example.com>
+Date:   Sat Dec 17 23:45:35 2016 +0200
+
+    ali edit
+
+[33mcommit cd777ce089f7a9f368fc1387c7d78ae5439b6db6[m
+Author: Aboelhamd Aly Aboelhamd <aboelhamd.abotreka@gmail.com>
+Date:   Sat Dec 17 23:14:01 2016 +0200
+
+    CLI is finished
+
+[33mcommit 308dec2bd3618c76194c039195fbac2f18ea704a[m
+Author: omarahmed_10 <you@example.com>
+Date:   Sat Dec 17 19:25:05 2016 +0200
+
+    merging
+
+[33mcommit fd0e7a1b662583ab5114e6c6c312e6749ce454e0[m
+Author: Aboelhamd Aly Aboelhamd <aboelhamd.abotreka@gmail.com>
+Date:   Sat Dec 17 13:41:55 2016 +0200
+
+    jdbc package style has been checked
+
+[33mcommit bc8615e0e0227737c148cdd6521e1498c233ca29[m
+Author: Aboelhamd Aly Aboelhamd <aboelhamd.abotreka@gmail.com>
+Date:   Sat Dec 17 00:51:42 2016 +0200
+
+    Log4j is completed , resources package and ConditionParser are deleted
+
+[33mcommit 9dbc3ca3b24ca5f00b803915b50f31a0bea3509c[m
+Merge: df2f0e9 df120de
+Author: HP <HP@HP-PC>
+Date:   Fri Dec 16 22:32:02 2016 +0200
+
+    Merge remote-tracking branch 'origin/Aboelhamd02'
+
+[33mcommit df2f0e984bd96e4f2f0844718864f421a9222c5c[m
+Author: HP <HP@HP-PC>
+Date:   Fri Dec 16 22:30:05 2016 +0200
+
+    adding resultSet tests and removing warning
+
+[33mcommit 605d4f4b5552489fa9f6404cae51d91ded1d1928[m
+Author: HP <HP@HP-PC>
+Date:   Fri Dec 16 22:21:50 2016 +0200
+
+    editing controller and sqlController
+
+[33mcommit df120ded864995e8eafb1aeec820fc08e68ad16e[m
+Author: Aboelhamd Aly Aboelhamd <aboelhamd.abotreka@gmail.com>
+Date:   Fri Dec 16 22:19:42 2016 +0200
+
+    Logs have been built in condition
+
+[33mcommit e014e348e91a88e3e0de0e4bfa8c4398b175e625[m
+Author: HP <HP@HP-PC>
+Date:   Fri Dec 16 13:42:00 2016 +0200
+
+    online tester code
+
+[33mcommit 26215742c5fd189d1a9d9166c869dd6a332fd2d5[m
+Merge: 654b843 af8d883
+Author: omarahmed_10 <you@example.com>
+Date:   Fri Dec 16 07:33:06 2016 +0200
+
+    Merge remote-tracking branch 'origin/newOmar5'
+    
+    Conflicts:
+    	XMLDBMS/A1.log
+    	XMLDBMS/jdbc/Log4j.java
+    	XMLDBMS/jdbc/ResultSet.java
+    	XMLDBMS/log4j2.xml
+
+[33mcommit af8d883e21b5314fbe989c2838fdb4fc5f7e755e[m
+Author: omarahmed_10 <you@example.com>
+Date:   Fri Dec 16 07:15:18 2016 +0200
+
+    add dbmsTest and fixing errors in tablemanager
+
+[33mcommit 654b843d00b8fa7406f544e79318b1fc8eaa52a2[m
+Author: Aboelhamd Aly Aboelhamd <aboelhamd.abotreka@gmail.com>
+Date:   Fri Dec 16 01:25:05 2016 +0200
+
+    logger is built for jdbc classes
+
+[33mcommit 7ba15297a09d7f96fd8b1eeb403dbef75b7581a9[m
+Merge: c68f209 277e65c
+Author: omarahmed_10 <you@example.com>
+Date:   Thu Dec 15 22:37:02 2016 +0200
+
+    Merge remote-tracking branch 'origin/newOmar2'
+    
+    Conflicts:
+    	XMLDBMS/src/condition/ConditionFinder.java
+    	XMLDBMS/src/dbms/TableManager.java
+    	XMLDBMS/src/dbmsController/Controller.java
+    	XMLDBMS/src/dbmsController/DbmsController.java
+    	XMLDBMS/src/extractor/AlterExtractor.java
+    	XMLDBMS/src/extractor/ExtractorTest.java
+    	XMLDBMS/src/fileManager/JsonWriter.java
+    	XMLDBMS/src/fileManager/XMLWriter.java
+    	XMLDBMS/src/jdbc/Driver.java
+    	XMLDBMS/src/jdbc/ResultSet.java
+    	XMLDBMS/src/jdbc/ResultSetMetaData.java
+    	XMLDBMS/src/jdbc/Statement.java
+    	XMLDBMS/src/onlineTester/SmokeTest.java
+
+[33mcommit c68f20977584b643d06ef57d1afeb3fd9f43f508[m
+Author: omarahmed_10 <you@example.com>
+Date:   Thu Dec 15 22:04:17 2016 +0200
+
+    Aboelhamd8 finaly merged
+
+[33mcommit 0b10caec265532017c18f8ba1a8279e06275ebf6[m
+Merge: 1ed83ba c4a302c
+Author: omarahmed_10 <you@example.com>
+Date:   Thu Dec 15 21:49:34 2016 +0200
+
+    Merge remote-tracking branch 'origin/Aboelhamd8'
+    
+    # Conflicts:
+    #	XMLDBMS/.classpath
+    #	XMLDBMS/src/onlineTester/SmokeTest.java
+    #	XMLDBMS/src/validator/Validator.java
+
+[33mcommit 277e65ca096597ce09dd249afdfaaeff30756404[m
+Author: omarahmed_10 <you@example.com>
+Date:   Thu Dec 15 21:42:21 2016 +0200
+
+    all smoke test are done except selectDistinctTest ali is working on it
+
+[33mcommit c4a302cc8442858cc3f0206646faaa48c00ddb2b[m
+Merge: 3c53df6 684f75d
+Author: Aboelhamd Aly Aboelhamd <aboelhamd.abotreka@gmail.com>
+Date:   Thu Dec 15 21:24:02 2016 +0200
+
+    Merge branch 'Aboelhamd6' into Aboelhamd8
+
+[33mcommit 684f75d3c6b0a2a2880ba486d0ea3220de5d655c[m
+Author: Aboelhamd Aly Aboelhamd <aboelhamd.abotreka@gmail.com>
+Date:   Thu Dec 15 20:53:46 2016 +0200
+
+    Some little modifications & log4j for extractor only
+
+[33mcommit 1ed83ba05ba8cfbc12949705dee6c756badb4d99[m
+Author: omarahmed_10 <you@example.com>
+Date:   Thu Dec 15 11:33:02 2016 +0200
+
+    edit syntax error in validator
+
+[33mcommit cdd78a9ef149bacb4efca8d6f49c920eba0c6a6b[m
+Author: omarahmed_10 <you@example.com>
+Date:   Thu Dec 15 11:16:48 2016 +0200
+
+    edit the methode getAffectedRowsNumbers.
+
+[33mcommit 14239ee53881bef3aaf6d703c0c00284540df5d0[m
+Author: Aboelhamd Aly Aboelhamd <aboelhamd.abotreka@gmail.com>
+Date:   Thu Dec 15 02:37:55 2016 +0200
+
+    No further tests checked , bugs fixed , there is a problem in table
+
+[33mcommit 788d81c92709adb66d836a495e741b82ca442fea[m
+Author: Aboelhamd Aly Aboelhamd <aboelhamd.abotreka@gmail.com>
+Date:   Thu Dec 15 02:24:09 2016 +0200
+
+    Some bugs are fixed , commenting prints , small edit in conditionFinder
+
+[33mcommit 5b87f4a79c718b20deaf73182a8d772f738e6e26[m
+Author: Aboelhamd Aly Aboelhamd <aboelhamd.abotreka@gmail.com>
+Date:   Thu Dec 15 00:44:31 2016 +0200
+
+    Validator is copied
+
+[33mcommit ffe724cc9ad3c322c2ffe02c9dfbf45247413e5d[m
+Author: Aboelhamd Aly Aboelhamd <aboelhamd.abotreka@gmail.com>
+Date:   Thu Dec 15 00:43:35 2016 +0200
+
+    No change in Statement , just remove warning
+
+[33mcommit 998e742e4c7ffd230bed69c1e8d0acb50a111bc5[m
+Author: Aboelhamd Aly Aboelhamd <aboelhamd.abotreka@gmail.com>
+Date:   Thu Dec 15 00:41:25 2016 +0200
+
+    UpdateExtractor
+
+[33mcommit ae99921f09447518184cd31fc3f264f1ff1ac026[m
+Author: Aboelhamd Aly Aboelhamd <aboelhamd.abotreka@gmail.com>
+Date:   Thu Dec 15 00:40:39 2016 +0200
+
+    CreateExtractor is copied
+
+[33mcommit cebf080275203deb3756b93ab55b0ce376f70401[m
+Author: Aboelhamd Aly Aboelhamd <aboelhamd.abotreka@gmail.com>
+Date:   Thu Dec 15 00:39:32 2016 +0200
+
+    ExtractorTest is copied
+
+[33mcommit 3c53df6018e39aa5f4b09c9cf928961c5150bba6[m
+Author: Aboelhamd Aly Aboelhamd <aboelhamd.abotreka@gmail.com>
+Date:   Thu Dec 15 00:37:48 2016 +0200
+
+    change buildPath jar
+
+[33mcommit b9eede01dae9a7055f3989c9483e21980e136742[m
+Author: omarahmed_10 <you@example.com>
+Date:   Wed Dec 14 23:18:20 2016 +0200
+
+    only 6 tests are working. create database and table is almost perfect.
+
+[33mcommit d32cb29befc694e70c328755b236d44bba4f5fb9[m
+Author: omarahmed_10 <you@example.com>
+Date:   Wed Dec 14 13:27:21 2016 +0200
+
+    some tests is working i have unknown nullpointer exception
+
+[33mcommit 81b3cd1fb1677f1efc89a9c8ecdeb8042cf9f900[m
+Author: HP <HP@HP-PC>
+Date:   Tue Dec 13 16:21:41 2016 +0200
+
+    edit getSelectedDataType in controller
+
+[33mcommit e0b7e3c729e39764489ed30651aaa7fe91ab70c6[m
+Author: omarahmed_10 <you@example.com>
+Date:   Tue Dec 13 07:26:56 2016 +0200
+
+    omar works here
+
+[33mcommit 3f361f0f03335a3feb766fc1b53ce99bb50d7aed[m
+Merge: ad6af34 13d2b28
+Author: omarahmed_10 <you@example.com>
+Date:   Tue Dec 13 07:17:44 2016 +0200
+
+    Merge remote-tracking branch 'origin/Aboelhamd2'
+    
+    Conflicts:
+    	XMLDBMS/src/validator/AlterValidator.java
+
+[33mcommit ad6af342c8b951b97edb22bc61846a52af9f6f3a[m
+Merge: 4497c84 04681ce
+Author: omarahmed_10 <you@example.com>
+Date:   Tue Dec 13 07:15:09 2016 +0200
+
+    merge omarI
+
+[33mcommit 4497c84d95ce45d9d16c4080952a15b510d3c4a4[m
+Merge: 3fdfb99 3ae68fe
+Author: omarahmed_10 <you@example.com>
+Date:   Tue Dec 13 07:05:59 2016 +0200
+
+    Merge remote-tracking branch 'origin/ALI8'
+
+[33mcommit 3fdfb999606cc01749a0af0c21c9ce41122194bd[m
+Merge: 09a58a7 25683b2
+Author: omarahmed_10 <you@example.com>
+Date:   Tue Dec 13 07:04:56 2016 +0200
+
+    Merge remote-tracking branch 'origin/Mustafa'
+    
+    Conflicts:
+    	XMLDBMS/src/jdbc/ResultSet.java
+
+[33mcommit 04681cee68de914f516325accfb3ca392e8d1c25[m
+Author: omarahmed_10 <you@example.com>
+Date:   Tue Dec 13 06:57:12 2016 +0200
+
+    end omarI
+
+[33mcommit 25683b262953220937e136a0951305f3bf2c87a0[m
+Author: Mostafa_Ahmed <Mostafa_Ahmed@MostafaAhmed>
+Date:   Mon Dec 12 21:26:54 2016 +0200
+
+    getDate and getmetaData remain
+
+[33mcommit 13d2b2836ef825a11bdd50c07fba6632938216d7[m
+Author: Aboelhamd Aly Aboelhamd <aboelhamd.abotreka@gmail.com>
+Date:   Mon Dec 12 18:11:55 2016 +0200
+
+    h
+
+[33mcommit 350e3618a43acbca8f860554b35a49af5c8c607a[m
+Author: Aboelhamd Aly Aboelhamd <aboelhamd.abotreka@gmail.com>
+Date:   Mon Dec 12 18:08:22 2016 +0200
+
+    Connection finished , replacing strings with e-nums in extractors
+
+[33mcommit 3ae68fecd2d06425d1a44a4d244baef3a0f1829d[m
+Author: Ali-Metawea <Ali-Metawea@Ali_R_Elsayed>
+Date:   Mon Dec 12 03:39:34 2016 +0200
+
+    Driver V1 && adding null values to "ALTER add" && Fixing SQL date Type
+
+[33mcommit a29a4eab717c34a0e51c1a1b27507950d2e88412[m
+Author: omarahmed_10 <you@example.com>
+Date:   Sun Dec 11 13:48:45 2016 +0200
+
+    json writer done. still haven't added loading for previous added table
+
+[33mcommit 218399749845d9b126983ea816b9fdb0cee62b98[m
+Author: omarahmed_10 <you@example.com>
+Date:   Sun Dec 11 13:20:57 2016 +0200
+
+    editing xml writer , table ,added tableManager for table main function and json writer
+
+[33mcommit 09a58a770cf16d3ec4f8572f59a68a981345f78f[m
+Author: omarahmed_10 <you@example.com>
+Date:   Sun Dec 11 06:49:19 2016 +0200
+
+    done merging and adding the correct return data type of selectedData
+
+[33mcommit 8142bae4487f26e7d944060fbae9ad2efab1701e[m
+Merge: 49039a7 d6bd8f6
+Author: omarahmed_10 <you@example.com>
+Date:   Sun Dec 11 06:34:48 2016 +0200
+
+    Merge branch 'newOmarBranch'
+    
+    Conflicts:
+    	XMLDBMS/src/dbms/XMLReader.java
+    	XMLDBMS/src/dbms/XMLWriter.java
+
+[33mcommit 49039a714a039d50f846d03c891e2dc39465fd3f[m
+Merge: 74f7d14 0fe18bc
+Author: omarahmed_10 <you@example.com>
+Date:   Sun Dec 11 06:32:32 2016 +0200
+
+    Merge remote-tracking branch 'origin/ALI7'
+
+[33mcommit 74f7d147f94d4439e72e830172bad68339dc6517[m
+Merge: 375d7f8 36ea5f9
+Author: omarahmed_10 <you@example.com>
+Date:   Sun Dec 11 06:31:39 2016 +0200
+
+    merging
+
+[33mcommit 375d7f874b6679b5d74c684690321b746d46fd12[m
+Merge: 48214ba ead107e
+Author: omarahmed_10 <you@example.com>
+Date:   Sun Dec 11 06:28:43 2016 +0200
+
+    Merge remote-tracking branch 'origin/Mustafa'
+
+[33mcommit d6bd8f6797a3486d27b88362d9e5d94c62949bad[m
+Author: omarahmed_10 <you@example.com>
+Date:   Sun Dec 11 06:26:29 2016 +0200
+
+    start working on protocol buffer
+
+[33mcommit 48214ba3bfe24f235c0767f48075480a05c0efe0[m
+Author: mohamed_said <eng.mohamedsaid1996@yahoo.com>
+Date:   Sun Dec 11 05:28:00 2016 +0200
+
+    connection done
+
+[33mcommit ead107e10379483db82c27c6f2d3ec163e78054b[m
+Author: Mostafa_Ahmed <Mostafa_Ahmed@MostafaAhmed>
+Date:   Sun Dec 11 03:28:21 2016 +0200
+
+    three methodes remain in ResultSet Class
+
+[33mcommit 0d5d8eb6a756c3e7595e7cf85137267b1ace8219[m
+Author: Mostafa_Ahmed <Mostafa_Ahmed@MostafaAhmed>
+Date:   Sun Dec 11 03:23:22 2016 +0200
+
+    five methodes remain in ResultSet Class
+
+[33mcommit 36ea5f9982bbba81689ab23fe31c2ccb6528ffaf[m
+Author: Aboelhamd Aly Aboelhamd <aboelhamd.abotreka@gmail.com>
+Date:   Sun Dec 11 01:27:11 2016 +0200
+
+    MetaDataTest finished , but Statement's not yet .
+    
+    I can't test statement without implementing Connection first , because
+    it's constructor depends on it .
+
+[33mcommit 0fe18bc60b68ff6a7e57f2a9369d6a396aab1953[m
+Author: Ali-Metawea <Ali-Metawea@Ali_R_Elsayed>
+Date:   Fri Dec 9 13:34:37 2016 +0200
+
+    Fixing XML Bugs && (Date--Float) Types are added
+
+[33mcommit 6f17ac5ed7807421e19755751a4e89c3a4f0859c[m
+Author: Aboelhamd Aly Aboelhamd <aboelhamd.abotreka@gmail.com>
+Date:   Thu Dec 8 19:53:09 2016 +0200
+
+    Statement finished, ResultSet is created, modified & ready to implement
+
+[33mcommit 4688120bd5293c3dafd531350d08e86caa8a9e40[m
+Author: mohamed_said <eng.mohamedsaid1996@yahoo.com>
+Date:   Thu Dec 8 10:54:51 2016 +0200
+
+    tooo
+
+[33mcommit 23ab832d8d4fe20a93ab809fa7c8fad1581307ee[m
+Author: omarahmed_10 <you@example.com>
+Date:   Thu Dec 8 09:02:00 2016 +0200
+
+    deleting old project
+
+[33mcommit 62125e8258684debab20800d86e5b9598bdcb341[m
+Author: omarahmed_10 <you@example.com>
+Date:   Thu Dec 8 08:57:34 2016 +0200
+
+    old Project has died so this is a new one
+
+[33mcommit d3aba05d1658b9c37c8a936afc2225194bc79dc1[m
+Author: omarahmed_10 <you@example.com>
+Date:   Thu Dec 8 08:48:10 2016 +0200
+
+    still fixing. master is dying
+
+[33mcommit f6edf091d319fd3ca5e036c6668703948acc0eb3[m
+Author: omarahmed_10 <you@example.com>
+Date:   Thu Dec 8 08:31:00 2016 +0200
+
+    fixing master error
+
+[33mcommit 50a31d23b5ec895e453923da2e14fdf9573cf9eb[m
+Merge: 4e74005 bcf81fe
+Author: omarahmed_10 <you@example.com>
+Date:   Thu Dec 8 08:19:51 2016 +0200
+
+    Merge remote-tracking branch 'origin/ALI6'
+
+[33mcommit 4e740051f442131e69e70cfffb174fd0efa0ad97[m
+Merge: 579d3f4 3adbab9
+Author: omarahmed_10 <you@example.com>
+Date:   Thu Dec 8 08:19:37 2016 +0200
+
+    Merge remote-tracking branch 'origin/newBranch'
+
+[33mcommit 3adbab913bcef4d79eaa7be8984988f8d61d8e20[m
+Author: omarahmed_10 <you@example.com>
+Date:   Thu Dec 8 08:04:54 2016 +0200
+
+    working on And/Or condition statement
+
+[33mcommit 579d3f45f96598e269b8a6b529b768f4fb2e6ed6[m
+Author: Aboelhamd Aly Aboelhamd <aboelhamd.abotreka@gmail.com>
+Date:   Thu Dec 8 00:03:50 2016 +0200
+
+    ResultSetMetaData finished and Statement Almost finished
+
+[33mcommit bcf81fe5576b8ff052916a0de83c8e7d62f9fb4c[m
+Author: Ali-Metawea <Ali-Metawea@Ali_R_Elsayed>
+Date:   Wed Dec 7 23:20:10 2016 +0200
+
+    Alert(Add, Delete)
+
+[33mcommit 20e503142fdd2e1b740e70adeb386d9c184084ed[m
+Author: omarahmed_10 <you@example.com>
+Date:   Wed Dec 7 22:43:54 2016 +0200
+
+    editing driver for statement class
+
+[33mcommit 8a7d8185b339291269541cc0f19da820ea879922[m
+Merge: 54f7e79 b247419
+Author: omarahmed_10 <you@example.com>
+Date:   Wed Dec 7 22:11:15 2016 +0200
+
+    Merge branch 'newBranch' into Aboelhamd
+    
+    # Conflicts:
+    #	SimpleXMLDBMS/src/extractor/ExtractorTest.java
+
+[33mcommit b24741998d2f2d08bd3821add63507d68287528c[m
+Author: omarahmed_10 <you@example.com>
+Date:   Wed Dec 7 22:06:16 2016 +0200
+
+    temp driver for aboelhamed
+
+[33mcommit 54f7e79cfa2eb8c3a65b495684eae9acc16458f7[m
+Author: Aboelhamd Aly Aboelhamd <aboelhamd.abotreka@gmail.com>
+Date:   Wed Dec 7 21:46:13 2016 +0200
+
+    Use is modified , Statement is created
+    
+    all Statement's method are implemented except for execute methods
+
+[33mcommit 5cbe3c77caa3ee3ec52ae55b09ff9178d06e04a9[m
+Merge: 43a1daf 606293b
+Author: Omar Ahmed <omar7oby1996@gmail.com>
+Date:   Wed Dec 7 15:51:43 2016 +0200
+
+    Merged master into newBranch
+
+[33mcommit 606293bdaf1ea4e918047e6a57453180ccbb0cac[m
+Author: omarahmed_10 <you@example.com>
+Date:   Wed Dec 7 15:48:18 2016 +0200
+
+    merging aboelhamd and ali works. you shouldn't make a pull request or
+    create new branch
+
+[33mcommit 08a29ea46223ce5040a9478e927521aeeff4348f[m
+Author: Ali-Metawea <Ali-Metawea@Ali_R_Elsayed>
+Date:   Wed Dec 7 03:04:46 2016 +0200
+
+    XMLWriter & XMLReader & SELECT DISTINCT Statement
+
+[33mcommit 3450bff451dae9760aa8b6749e158f5e94b7322f[m
+Author: Aboelhamd Aly Aboelhamd <aboelhamd.abotreka@gmail.com>
+Date:   Tue Dec 6 20:55:13 2016 +0200
+
+    Alter , Distinct and some optimization on Validator class
+
+[33mcommit 94939f139c5779163a71267374fb5f9857fa0ba8[m
+Merge: 93ebf2a 2b2e033
+Author: Aboelhamd Aly Aboelhamd Aly <aboelhamd.abotreka@gmail.com>
+Date:   Tue Dec 6 17:56:40 2016 +0200
+
+    Merged master into Aboelhamd
+
+[33mcommit 2b2e033cba8a5a056a671b47ca7be339413940cf[m
+Author: omarahmed_10 <you@example.com>
+Date:   Tue Dec 6 08:32:13 2016 +0200
+
+    new checkpoint, i have added a new folder to save all databases folder.
+
+[33mcommit 39bd2e1d658db95835fcfd1576b6eb775f0131f5[m
+Author: omarahmed_10 <you@example.com>
+Date:   Mon Dec 5 19:57:06 2016 +0200
+
+    finish editing design and new checkpoint
+
+[33mcommit 63b8e89d1bc07636dafc16b6f7698d0d14e32159[m
+Author: omarahmed_10 <you@example.com>
+Date:   Mon Dec 5 12:34:11 2016 +0200
+
+    testing
+
+[33mcommit 46b08ebd1f1c1e73b42fbd3bcdc86a0188f595c8[m
+Author: omarahmed_10 <you@example.com>
+Date:   Mon Dec 5 11:10:18 2016 +0200
+
+    database has been editted,table is not finished yet
+
+[33mcommit 93ebf2af07694c7f811fd79b4af385b8ba53fd3c[m
+Author: omarahmed_10 <you@example.com>
+Date:   Tue Nov 29 07:23:48 2016 +0200
+
+    final insaAllah
+
+[33mcommit f46de9cca1b2ca12333b84246f65ce779aedcb55[m
+Author: omarahmed_10 <you@example.com>
+Date:   Mon Nov 28 20:34:26 2016 +0200
+
+    finish deduging
+
+[33mcommit 41738443b501f71a1114f34a038e13407435196b[m
+Author: omarahmed_10 <you@example.com>
+Date:   Mon Nov 28 12:46:40 2016 +0200
+
+    start testing
+
+[33mcommit 6bf841e55861ae54b4f43cfe69bacb8ddadaf69d[m
+Author: omarahmed_10 <you@example.com>
+Date:   Mon Nov 28 02:02:53 2016 +0200
+
+    finish control
+
+[33mcommit 0fe609bf96dfc902dbc80cc25af97b81c6f2ee9a[m
+Merge: ee27bc6 e4af945
+Author: omarahmed_10 <you@example.com>
+Date:   Sun Nov 27 21:34:28 2016 +0200
+
+    Merge remote-tracking branch 'origin/control'
+    
+    Conflicts:
+    	SimpleXMLDBMS/src/dbms/Table.java
+
+[33mcommit ee27bc6647747068beba1dfd98cfb609bc823ff8[m
+Merge: 3b5f6b6 5c6759d
+Author: omarahmed_10 <you@example.com>
+Date:   Sun Nov 27 21:33:21 2016 +0200
+
+    Merge remote-tracking branch 'origin/mostafa'
+    
+    Conflicts:
+    	SimpleXMLDBMS/src/dbms/DataBase.java
+    	SimpleXMLDBMS/src/dbms/Table.java
+
+[33mcommit e4af9452a4cfb7c02f49bf4f381b358ad7ebc882[m
+Author: omarahmed_10 <you@example.com>
+Date:   Sun Nov 27 21:21:05 2016 +0200
+
+    parser finished inshaAllah
+
+[33mcommit 5c6759dce5697f754c210de45fa5296448b76ca2[m
+Author: Mostafa_Ahmed <Mostafa_Ahmed@MostafaAhmed>
+Date:   Sun Nov 27 14:46:00 2016 +0200
+
+    mostafa 5als
+
+[33mcommit 3b5f6b64718f77ee64b3ab52251ad94526d74cce[m
+Merge: e8d37d6 9c2c8b8
+Author: omarahmed_10 <you@example.com>
+Date:   Sun Nov 27 08:45:50 2016 +0200
+
+    Merge remote-tracking branch 'origin/mostafa'
+    
+    Conflicts:
+    	SimpleXMLDBMS/src/dbms/DataBase.java
+    	SimpleXMLDBMS/src/dbms/Table.java
+
+[33mcommit 9c2c8b8d15f717249a441f528260de4a58c933ca[m
+Author: Mostafa_Ahmed <Mostafa_Ahmed@MostafaAhmed>
+Date:   Sun Nov 27 03:26:10 2016 +0200
+
+    change in table
+
+[33mcommit 60e6caf8646cef63b2a812881c2ed02425bdbe60[m
+Author: Mostafa_Ahmed <Mostafa_Ahmed@MostafaAhmed>
+Date:   Sun Nov 27 03:15:12 2016 +0200
+
+    dtd creation
+
+[33mcommit e8d37d62f8059b8b5e78f43011dec5079f2271c9[m
+Author: Ali-Metawea <Ali-Metawea@Ali_R_Elsayed>
+Date:   Sun Nov 27 00:23:16 2016 +0200
+
+    Update V2 && Fixed Creating File
+
+[33mcommit 20c818ffa9af37753f7cd181a11c7d7f3f741a52[m
+Merge: 2d8770c 7aa745b
+Author: omarahmed_10 <you@example.com>
+Date:   Sun Nov 27 00:14:27 2016 +0200
+
+    Merge remote-tracking branch 'origin/omar2'
+    
+    Conflicts:
+    	SimpleXMLDBMS/src/dbms/Idbms.java
+    	SimpleXMLDBMS/src/dbms/IdbmsAdapter.java
+    	SimpleXMLDBMS/src/dbms/Table.java
+
+[33mcommit 2d8770c975c21734c6a37dedb19480f6911b4f6b[m
+Merge: 51a2b22 02a88e7
+Author: omarahmed_10 <you@example.com>
+Date:   Sun Nov 27 00:00:57 2016 +0200
+
+    # WARNING: head commit changed in the meantime
+    
+    merge
+
+[33mcommit 7aa745b3266e9f82338b8d26de7a60018e44468c[m
+Author: omarahmed_10 <you@example.com>
+Date:   Sat Nov 26 23:55:47 2016 +0200
+
+    add comparison. only the update is left
+
+[33mcommit 8022e0506319973401e62b9f613f1f05ce5fb89a[m
+Author: omarahmed_10 <you@example.com>
+Date:   Sat Nov 26 22:51:56 2016 +0200
+
+    almost parsing done
+
+[33mcommit 51a2b223c055a1c32d6007f710a32e95cc1aacc5[m
+Author: Ali-Metawea <Ali-Metawea@Ali_R_Elsayed>
+Date:   Sat Nov 26 08:01:28 2016 +0200
+
+    Update Table V1
+
+[33mcommit ccae8f5c6290a6d0c459a2cc5960d10ec2503fb6[m
+Author: Ali-Metawea <Ali-Metawea@Ali_R_Elsayed>
+Date:   Sat Nov 26 07:01:46 2016 +0200
+
+    Delete & Select from table
+
+[33mcommit 02a88e7eb690d047b6affee92bf9a120e9b0a89e[m
+Author: Mostafa_Ahmed <Mostafa_Ahmed@MostafaAhmed>
+Date:   Fri Nov 25 15:27:09 2016 +0200
+
+    commit
+
+[33mcommit 2bad7fb0426fffa8cafc59c48c52496c798dff45[m
+Author: omarahmed_10 <you@example.com>
+Date:   Fri Nov 25 14:52:14 2016 +0200
+
+    merged
+
+[33mcommit 7facf8b5d4de04c83d38a1d49622bd8c06b0652b[m
+Author: omarahmed_10 <you@example.com>
+Date:   Fri Nov 25 14:45:47 2016 +0200
+
+    workoing on parsing
+
+[33mcommit 3d4c478e1b7581d644309e17d387e3d6af65c0ca[m
+Author: Ali-Metawea <Ali-Metawea@Ali_R_Elsayed>
+Date:   Fri Nov 25 14:22:54 2016 +0200
+
+    Insert & Load Data
+
+[33mcommit dc80d3d6eb1935a65dbbf05fb5001175a9206289[m
+Merge: 5574a8b d131a33
+Author: omarahmed_10 <you@example.com>
+Date:   Thu Nov 24 21:29:04 2016 +0200
+
+    Merge remote-tracking branch 'origin/Mohaemd'
+
+[33mcommit 5574a8bf2366fd41fdf03fd1adacd622ab32749a[m
+Merge: c24e872 ea36f09
+Author: omarahmed_10 <you@example.com>
+Date:   Thu Nov 24 21:27:50 2016 +0200
+
+    merge 2
+
+[33mcommit c24e8721b16a6f6126d23c31fb5e048258c280e2[m
+Merge: 5fd7e44 12a6caa
+Author: omarahmed_10 <you@example.com>
+Date:   Thu Nov 24 21:22:18 2016 +0200
+
+    merge1
+
+[33mcommit ea36f09aa8b847b59ba7abd73cfa7dfc2da665c9[m
+Author: Mostafa_Ahmed <Mostafa_Ahmed@MostafaAhmed>
+Date:   Thu Nov 24 21:01:00 2016 +0200
+
+    first change
+
+[33mcommit 12a6caa79c12e0b3c5502654fd626d9fd8d25d7a[m
+Author: Ali-Metawea <Ali-Metawea@Ali_R_Elsayed>
+Date:   Thu Nov 24 20:25:31 2016 +0200
+
+    Creating Table
+
+[33mcommit d131a33533c97601a66d785d88ae042cb9232160[m
+Author: mohamed_said <eng.mohamedsaid1996@yahoo.com>
+Date:   Thu Nov 24 09:08:18 2016 +0200
+
+    first commit (try)
+
+[33mcommit 5222398fcea96579a012834554fc8715d0c8d4cd[m
+Author: Mostafa_Ahmed <Mostafa_Ahmed@MostafaAhmed>
+Date:   Thu Nov 24 01:10:29 2016 +0200
+
+    commit
+
+[33mcommit 5fd7e44e0e5b28bd752086c60cd8f5d741f3e294[m
+Merge: 46de97c 7ed3f11
+Author: omarahmed_10 <you@example.com>
+Date:   Wed Nov 23 23:08:13 2016 +0200
+
+    Merge branch 'master' of https://bitbucket.org/TeamOOP_10/xmldbms
+    fixing error
+
+[33mcommit 46de97c0eeabdb407f0d6de5b9b41a8f0497bf76[m
+Author: omarahmed_10 <you@example.com>
+Date:   Wed Nov 23 23:03:07 2016 +0200
+
+    change int to LinkedList<int>
+
+[33mcommit bcd26a4f7398d0598147863cd30a3f2ac1c1bd82[m
+Author: Prea <Prea@Preator>
+Date:   Wed Nov 23 17:34:01 2016 +0200
+
+    mostafa's commit
+
+[33mcommit cb87d2d60abbb65eea6f948155e1e39280e002b8[m
+Author: Ali-Metawea <Ali-Metawea@Ali_R_Elsayed>
+Date:   Wed Nov 23 18:31:47 2016 +0200
+
+    Testing Ali's Branch
+
+[33mcommit 7ed3f11f483eaf5e93558ebe0535b7adc63211c0[m
+Author: Prea <Prea@Preator>
+Date:   Wed Nov 23 17:34:01 2016 +0200
+
+    start from here
+
+[33mcommit ab6f1392836a862ffa34b025e7f702326757986c[m
+Author: Prea <Prea@Preator>
+Date:   Wed Nov 23 17:25:51 2016 +0200
+
+    gggg
+
+[33mcommit 6084808f73cc2f0eae249559233d298aa9e20612[m
+Author: Prea <Prea@Preator>
+Date:   Wed Nov 23 16:59:54 2016 +0200
+
+    bgrb wlahhy :D
+
+[33mcommit 322841a170385957dabbcd70e48bb91658e359b9[m
+Author: omarahmed_10 <you@example.com>
+Date:   Wed Nov 23 16:30:44 2016 +0200
+
+    nothing changed just playing
+
+[33mcommit 43a1daf735ac473fea22433b43aa828e29b8a1ce[m
+Author: omarahmed_10 <you@example.com>
+Date:   Wed Nov 23 16:29:02 2016 +0200
+
+    my new commit
+
+[33mcommit 45d114cab4dac6ad6c069d95e2c8ccca4495870f[m
+Author: omarahmed_10 <you@example.com>
+Date:   Wed Nov 23 16:25:16 2016 +0200
+
+    start Point
